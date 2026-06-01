@@ -21,6 +21,17 @@ The AI Web Intelligence Platform is a frontend-driven system that transforms raw
 - Optimised Next.js client components for performance  
 
 ---
+## 📸 Screenshots
+
+###  Dashboard View 01
+![Dashboard](./Screenshot/ss1.png)
+
+###  Dashboard View 02
+![Dashboard](./Screenshot/ss2.png)
+
+###  Result
+![Dashboard](./Screenshot/ss3.png)
+---
 
 ## Tech Stack
 
